@@ -102,7 +102,7 @@ h2{
 
 #kontakt h2{
     margin-top: 0px;
-    padding-top: 25px;
+    padding-top: 50px;
 }
 
 #kontakt p{

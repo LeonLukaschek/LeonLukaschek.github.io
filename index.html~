@@ -47,7 +47,7 @@
             <div id="kontakt">
                 <h2>Kontakt</h2>
                 
-                <p>Bei Nachfragen stehe ich Ihnen gerne zur Seite. <br>Sie können mich über meine E-Mail <a href="mailto:leon.lukaschek@gmail.com">leon.lukaschek@gmail.com</a> erreichen.</p>
+                <p>Bei nachfragen stehe ich Ihnen gerne zur Seite. <br>Sie können mich über meine E-Mail <a href="mailto:leon.lukaschek@gmail.com">leon.lukaschek@gmail.com</a> erreichen.</p>
             <div id="links">
                 <a href="https://twitter.com/fallingWolfDev" class="twitter-follow-button" data-show-count="false">Follow @fallingWolfDev</a>
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
