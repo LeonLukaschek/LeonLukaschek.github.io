@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+}
+
+#header{
+    display: block;
+    height:  100px;
+    width:  100%;
+    
+    background-color: #d3d3d3;
+    text-align: center;
+    
+    padding: 10px 0px 15px 0px;
+}
+
+#header a{
+    text-decoration: none;
+    font-size: 1.5em;
+    font-family: serif;
+    padding-left: 50px;
+    color: #323232;
+    padding: 10px;
+}
+
+#header a:hover{
+    
+    color: #00007f;
+}
+
+#h_hobby{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 2px 0px 0px 0px;
+    font-style: italic;
+}
+
+#h_name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2em;
+    margin-top: 15px;
+    margin-bottom: 2px;
+}
+
+#about_me{
+    display: block;
+    height: 500px;
+    width: 100%;
+    background-color: #e79972;
+    
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#about_me h2{
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+#about_me h3{
+    font-size: 1.4em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0px;
+}
+
+#about_me p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#projects{
+    display: block;
+    background-color: #b3ddf2;
+    text-align: center;
+    
+    width: 100%;
+    height: 600px;
+    
+    border-bottom: 2px solid black;
+}
+
+
+#projects p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#projects h2{
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+#kontakt{
+    background-color: #d3d3d3;
+    text-align: center;
+    
+    height: 120%;
+    border-bottom: 10px solid black;
+}
+
+#kontakt h2{
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+#kontakt p{
+    font-size: 1.1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#jumper_text{
+    display: inline-block;
+    
+}
+
+#euler_showcase{
+    display: inline-block;
+    text-align: center;
+}
+
+img{
+    height: 250px;
+    width: 150px;
+    
+    padding-right: 85px;
+}
