@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <title>Leon Lukaschek - Portfolio</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <!-- Place this tag in your head or just before your close body tag. -->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
+            
+    </head>
+    <body>
+        <div id="header">
+            <div id="header_links">
+                <a href="#about_me_a"><strong>WER BIN ICH</strong></a>
+                <a href="#was_kann_ich_a"><strong>WAS KANN ICH</strong></a>
+                <a href="#projects_a"><strong>MEINE PROJEKTE</strong></a>
+                <a href="#kontakt_a"><strong>KONTAKT</strong></a>
+                <p id="h_name">Leon Lukaschek <br></p>
+                <p id="h_hobby">//Hobby programmer</p>
+            </div>
+            
+        </div>
+        <a name="about_me_a"></a>
+        <div id="about_me">
+                <h2>Wer bin ich?</h2>
+                <p>Hallo, mein Name ist Leon Lukaschek.<br> Ich programmiere in meiner Freizeit Mobile-Games oder Programme, die ich in meinem Leben selber benutzen kann<br> oder suche nach neuen Technologien, die ich ausprobieren kann.<br> Natürlich habe ich auch noch andere Freizeitbeschäftigungen, z. B. spiele ich Computerspiele mit meinen Freunden oder lese Fantasy Bücher.<br><br></id><br><br><br></p>
+                <a name="was_kann_ich_a"></a>
+                <h3>Was kann ich?</h3><p><br>Vor ca. 2 Jahren habe ich das angefangen zu programmieren. Die meiste Zeit habe ich damit mit C++/C# verbracht.<br> Zudem habe ich Kenntnisse in Java, Lua, HTML, CSS, JS, JQUERY.<br>Zum großteil habe ich an Spielen mithilfe von Libarys wie SDL(C++), LWJGL(Java) oder mithilfe von Engines wie der UnityEngine oder der Unreal Engine gearbeitet.</p>
+            </div>
+            <a name="projects_a"></a>
+            <div id="projects">
+                <h2>Meine Projekte</h2>
+                <div id="jumper_showcase">
+                    <div id="jumper_text">
+                    <p><strong>"jumpeR"</strong> ist ein Mobile-Spiel, welches ich mithilfe der Unity-Engine programmiert habe.<br> Das Spielprinzip ist einfach - Sie steuern ein Würfel und müssen solange sie es schaffen Hindernisse ausweichen. <br>Die Entwicklungszeit erstreckt sich über ca. 1 Monat. Den Quellcode des Spieles können Sie auf meiner Github Seite <a href="https://github.com/LeonLukaschek/LevelRunner">hier</a> finden.</p>
+                    <img src="img_1.jpg" alt="jumpeR gampelay">
+                    <img src="img_3.png" alt="jumpeR gampelay">
+                    <img src="img_4.png" alt="jumpeR gampelay">
+                    <img src="img_2.jpg" alt="jumpeR gampelay">
+	<a id="store_link" href='https://play.google.com/store/apps/details?id=com.fallingWolf.leveljumper&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+                    </div>
+                </div>
+                <div id="euler_showcase">
+                    <p><strong>"Projekt-Euler"</strong> ist eine Reihe von mathematischen Problemen, die man mithife von einer frei auswählbaren Programmiersprache lösen kann. (Mehr Informationen dazu können Sie auf der offiziellen Internetseite <a href="https://projecteuler.net/">hier</a> finden)<br>Meine Lösungen können sie auf meiner Github seite <a href="https://github.com/LeonLukaschek/ProjectEuler">hier</a> finden. Ich habe dazu die Programmiersprachen C++/C#/Java benutzt.</p>
+                </div>
+
+        </div>
+            <a name="kontakt_a"></a>
+            <div id="kontakt">
+                <h2>Kontakt</h2>
+                
+                <p>Bei Nachfragen stehe ich Ihnen gerne zur Seite. <br>Sie können mich über meine E-Mail <a href="mailto:leon.lukaschek@gmail.com">leon.lukaschek@gmail.com</a> erreichen.</p>
+            <div id="links">
+                <a href="https://twitter.com/fallingWolfDev" class="twitter-follow-button" data-show-count="false">Follow @fallingWolfDev</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                <a class="github-button" href="https://github.com/LeonLukaschek" aria-label="Follow @LeonLukaschek on GitHub">Follow @LeonLukaschek</a>            
+            </div>
+            
+        </div>
+        
+    </body>
+</html>

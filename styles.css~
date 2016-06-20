@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 
-#header{
+#header_links{
     display: block;
     height:  100px;
     width:  100%;
@@ -11,6 +11,11 @@ body{
     text-align: center;
     
     padding: 10px 0px 15px 0px;
+}
+
+#lang{
+    display: inline-block;
+    font-size: 0.75em;
 }
 
 #header a{
@@ -82,7 +87,6 @@ h2{
     border-bottom: 2px solid black;
 }
 
-
 #projects p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -102,7 +106,7 @@ h2{
 
 #kontakt h2{
     margin-top: 0px;
-    padding-top: 50px;
+    padding-top: 25px;
 }
 
 #kontakt p{
@@ -126,3 +130,12 @@ img{
     
     padding-right: 85px;
 }
+
+#store_link img{
+	display: inline-block;
+	padding-top: -50px;
+	width: 175px;
+	height: 75px;
+
+}
+
