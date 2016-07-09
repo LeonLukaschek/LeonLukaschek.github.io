@@ -124,17 +124,20 @@ h2{
     text-align: center;
 }
 
+
+
 img{
     height: 250px;
     width: 150px;
     
-    padding-right: 85px;
+    padding-right: 85px;    
 }
 
-#gif img{
-    height: 250px;
-    width: 150px;
+#gif{
+    padding-right: 0px;
+    border-radius: 5%;
 }
+
 
 #store_link img{
 	display: inline-block;
